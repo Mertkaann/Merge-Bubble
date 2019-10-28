@@ -1,0 +1,15 @@
+sorted.txt-b 1000 1.1e-05
+sorted.txt-b 10000 0.000111
+sorted.txt-b 100000 0.001107
+sorted.txt-b 1000000 0.010205
+sorted.txt-m 1000 0.00084
+sorted.txt-m 10000 0.021593
+sorted.txt-m 100000 1.55388
+sorted.txt-m 1000000 182.275
+unsorted.txt-m 1000 0.000856
+unsorted.txt-m 10000 0.022533
+unsorted.txt-m 100000 1.57566
+unsorted.txt-m 1000000 188.002
+unsorted.txt-b 1000 0.011119
+unsorted.txt-b 10000 1.12629
+unsorted.txt-b 100000 115.746
